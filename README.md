@@ -1,2 +1,1 @@
-# Contoh saja
-hehehehe
+Hanya uji Coba
